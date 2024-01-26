@@ -1,0 +1,39 @@
+textName: Kaine
+source: Nier Replicant
+rating: 3
+pattern: 
+colorPrimary:
+  r: 0.41961
+  g: 0.61961
+  b: 0.70196
+  a: 0
+colorSecondary:
+  r: 0.9
+  g: 0.9
+  b: 0.9
+  a: 0
+colorTertiary:
+  r: 0.17255
+  g: 0.19608
+  b: 0.18824
+  a: 0
+materialPrimary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.3
+materialSecondary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.3
+materialTertiary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.3
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

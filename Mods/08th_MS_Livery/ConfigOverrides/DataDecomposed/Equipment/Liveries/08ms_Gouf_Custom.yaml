@@ -1,0 +1,31 @@
+textName: MS-07B-3 Gouf Custom
+source: 08th MS Team
+rating: 1
+pattern: 
+colorPrimary:
+  r: 0.561
+  g: 0.769
+  b: 0.855
+  a: 0
+colorSecondary:
+  r: 0.078
+  g: 0.286
+  b: 0.337
+  a: 0
+colorTertiary:
+  r: 0.153
+  g: 0.306
+  b: 0.345
+  a: 0
+materialPrimary: &o0
+  x: 0
+  y: 0.4
+  z: 0.8
+  w: 0
+materialSecondary: *o0
+materialTertiary: *o0
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

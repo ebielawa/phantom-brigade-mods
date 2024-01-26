@@ -1,0 +1,39 @@
+textName: Gulf Racing
+source: Racing
+rating: 3
+pattern: 
+colorPrimary:
+  r: 0.65490    
+  g: 0.81961
+  b: 0.90980
+  a: 0
+colorSecondary:
+  r: 1.00000    
+  g: 0.40392
+  b: 0.13725
+  a: 0
+colorTertiary:
+  r: 0.96078
+  g: 0.96078
+  b: 0.96078
+  a: 0
+materialPrimary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.2
+materialSecondary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.2
+materialTertiary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.2
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

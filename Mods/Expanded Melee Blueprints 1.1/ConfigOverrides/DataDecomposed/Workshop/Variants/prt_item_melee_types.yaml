@@ -1,0 +1,37 @@
+variants:
+  type_1_basic:
+    icon: s_icon_l32_part_arch_melee_size1
+    ratingOverride: 
+    durationMultiplier: 
+    basePartRequirements: 
+    baseStatRequirements: 
+    inputChargeMultiplier: 
+    inputResourceMultipliers: 
+    outputPartTags:
+      part_basic: true
+    outputSubsystemTags: 
+    outputUnitTags: 
+  type_2_medium:
+    icon: s_icon_l32_part_arch_melee_size2
+    ratingOverride: 
+    durationMultiplier: 
+    basePartRequirements: 
+    baseStatRequirements: 
+    inputChargeMultiplier: 
+    inputResourceMultipliers: 
+    outputPartTags:
+      part_medium: true
+    outputSubsystemTags: 
+    outputUnitTags: 
+  type_3_advanced:
+    icon: s_icon_l32_part_arch_melee_size3
+    ratingOverride: 
+    durationMultiplier: 
+    basePartRequirements: 
+    baseStatRequirements: 
+    inputChargeMultiplier: 
+    inputResourceMultipliers: 
+    outputPartTags:
+      part_advanced: true
+    outputSubsystemTags: 
+    outputUnitTags: 

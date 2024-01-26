@@ -1,0 +1,39 @@
+textName: Jetstream Sam
+source: Metal Gear Rising
+rating: 3
+pattern: 
+colorPrimary:
+  r: 0.69804
+  g: 0.67451
+  b: 0.58039
+  a: 0
+colorSecondary:
+  r: 0.10196
+  g: 0.10196
+  b: 0.10196
+  a: 0
+colorTertiary:
+  r: 0.73725 
+  g: 0.04706
+  b: 0.05882
+  a: 0
+materialPrimary:
+  x: 0
+  y: 0.4
+  z: 0.7
+  w: 0.2
+materialSecondary:
+  x: 0
+  y: 0.5
+  z: 1
+  w: 1
+materialTertiary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.8
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

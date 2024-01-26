@@ -1,0 +1,39 @@
+textName: Ecofighter
+source: Hamooster
+rating: 3
+pattern: 
+colorPrimary:
+  r: 0.391
+  g: 0.508
+  b: 0.293
+  a: 0
+colorSecondary:
+  r: 0.664
+  g: 0.410
+  b: 0.234
+  a: 0
+colorTertiary:
+  r: 0.273
+  g: 0.078
+  b: 0.078
+  a: 0
+materialPrimary:
+  x: 0
+  y: 0.4
+  z: 0.3
+  w: 0
+materialSecondary:
+  x: 0
+  y: 0.4
+  z: 0.3
+  w: 0
+materialTertiary:
+  x: 0
+  y: 0.4
+  z: 0.3
+  w: 0
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

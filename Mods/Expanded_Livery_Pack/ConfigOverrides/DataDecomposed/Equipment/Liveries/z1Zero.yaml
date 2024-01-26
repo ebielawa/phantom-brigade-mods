@@ -1,0 +1,39 @@
+textName: Zero
+source: Hamooster
+rating: 2
+pattern: 
+colorPrimary:
+  r: 0.664
+  g: 0.625
+  b: 0.566
+  a: 0
+colorSecondary:
+  r: 0.138
+  g: 0.293
+  b: 0.254
+  a: 0
+colorTertiary:
+  r: 0.586
+  g: 0.156
+  b: 0.156
+  a: 0
+materialPrimary:
+  x: 0
+  y: 0.5
+  z: 0.3
+  w: 0
+materialSecondary:
+  x: 0
+  y: 0.5
+  z: 0.3
+  w: 0
+materialTertiary:
+  x: 0
+  y: 0.5
+  z: 0.3
+  w: 0
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

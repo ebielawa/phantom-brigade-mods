@@ -1,0 +1,39 @@
+textName: Renown Mazda 747B
+source: Racing
+rating: 3
+pattern: 
+colorPrimary:
+  r: 0.20000
+  g: 0.55686
+  b: 0.28235
+  a: 0
+colorSecondary:
+  r: 1.0
+  g: 0.40392
+  b: 0.25882
+  a: 0
+colorTertiary:
+  r: 0.96
+  g: 0.96
+  b: 0.96
+  a: 0
+materialPrimary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.4
+materialSecondary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.4
+materialTertiary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.4
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

@@ -1,0 +1,55 @@
+edits:
+  wpn_melee_primary_axe_heavy_01__name: MA-X1 Blunt
+  wpn_melee_primary_axe_heavy_02__name: MA-X2 Spike
+  wpn_melee_primary_axe_heavy_03__name: MA-X3 Plasma
+  wpn_melee_primary_axe_heavy_01__text: Variant with reduced mass and, as a consequence, slightly lower performance. Heavy-weight axe.
+  wpn_melee_primary_axe_heavy_02__text: Variant with increased concussion damage. Heavy-weight axe.
+  wpn_melee_primary_axe_heavy_03__text: Variant with increased heat output and mass. Heavy-weight axe.
+  wpn_melee_primary_axe_medium_01__name: MA-M1 Blunt
+  wpn_melee_primary_axe_medium_02__name: MA-M2 Spike
+  wpn_melee_primary_axe_medium_03__name: MA-M3 Plasma
+  wpn_melee_primary_axe_medium_01__text: Variant with reduced mass and, as a consequence, slightly lower performance. Medium-weight axe.
+  wpn_melee_primary_axe_medium_02__text: Variant with increased concussion damage. Medium-weight axe.
+  wpn_melee_primary_axe_medium_03__text: Variant with increased heat output and mass. Medium-weight axe.
+  wpn_melee_secondary_axe_01__name: MA-S1 Blunt
+  wpn_melee_secondary_axe_02__name: MA-S2 Spike
+  wpn_melee_secondary_axe_03__name: MA-S3 Plasma
+  wpn_melee_secondary_axe_01__text: Variant with reduced mass and slightly lower performance. Compact design.
+  wpn_melee_secondary_axe_02__text: Variant with improved concussive damage. Compact design.
+  wpn_melee_secondary_axe_03__text: Variant with increased heat output and mass. Compact design.
+  wpn_melee_primary_blade_heavy_01__name: MB-XL1 Clipper
+  wpn_melee_primary_blade_heavy_02__name: MB-XL2 Tear
+  wpn_melee_primary_blade_heavy_03__name: MB-XL3 Razor
+  wpn_melee_primary_blade_heavy_01__text: Variant with reduced mass and slightly lower performance.Heavy blade.
+  wpn_melee_primary_blade_heavy_02__text: Variant with increased damage and heat output. Heavy blade.
+  wpn_melee_primary_blade_heavy_03__text: Variant with high damage output and heat output. Heavy blade.
+  wpn_melee_primary_blade_medium_01__name: MB-M1 Clipper
+  wpn_melee_primary_blade_medium_02__name: MB-M2 Tear
+  wpn_melee_primary_blade_medium_03__name: MB-M3 Razor
+  wpn_melee_primary_blade_medium_01__text: Variant with reduced mass and slightly lower performance. Medium-weight blade.
+  wpn_melee_primary_blade_medium_02__text: Variant with increased damage and heat output. Medium-weight blade.
+  wpn_melee_primary_blade_medium_03__text: Variant with high damage output and heat output. Heavy blade.
+  wpn_melee_secondary_blade_01__name: MB-S1 Clipper
+  wpn_melee_secondary_blade_02__name: MB-S2 Tear
+  wpn_melee_secondary_blade_03__name: MB-S3 Razor
+  wpn_melee_secondary_blade_01__text: Variant with reduced mass and slightly lower performance. Compact design.
+  wpn_melee_secondary_blade_02__text: Variant with increased damage and heat output. Compact design.
+  wpn_melee_secondary_blade_03__text: Variant with excellent damage output. Compact design.
+  wpn_melee_primary_saber_heavy_01__name: MS-XL Antares MK1
+  wpn_melee_primary_saber_heavy_02__name: MS-XL Antares MK2
+  wpn_melee_primary_saber_heavy_03__name: MS-XL Antares MK3
+  wpn_melee_primary_saber_heavy_01__text: Variant with reduced mass and slightly lower performance. Heavy saber.
+  wpn_melee_primary_saber_heavy_02__text: Variant with increased damage and heat output variant. Heavy saber.
+  wpn_melee_primary_saber_heavy_03__text: Variant with very high damage and heat output. Heavy saber.
+  wpn_melee_primary_saber_medium_01__name: MS-M Arcturus MK1
+  wpn_melee_primary_saber_medium_02__name: MS-M Arcturus MK2
+  wpn_melee_primary_saber_medium_03__name: MS-M Arcturus MK3
+  wpn_melee_primary_saber_medium_01__text: Variant with reduced mass and slightly lower performance. Medium-weight saber.
+  wpn_melee_primary_saber_medium_02__text: Variant with increased damage and heat output. Medium-weight saber.
+  wpn_melee_primary_saber_medium_03__text: Variant with very high damage and heat output. Medium-weight saber.
+  wpn_melee_secondary_saber_01__name: MS-S Alnair MK1
+  wpn_melee_secondary_saber_02__name: MS-S Alnair MK2
+  wpn_melee_secondary_saber_03__name: MS-S Alnair MK3
+  wpn_melee_secondary_saber_01__text: Variant with reduced mass and slightly lower performance. Compact design.
+  wpn_melee_secondary_saber_02__text: Variant with increased damage and heat output. Compact design.
+  wpn_melee_secondary_saber_03__text: Variant with incredibly high damage and heat output. Compact design.

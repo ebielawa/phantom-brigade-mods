@@ -1,0 +1,38 @@
+loadFromApplicationPath: false
+list:
+- directory: Legacy_Potraits
+  enabled: true
+- directory: Gundam_Potraits
+  enabled: true
+- directory: Muv_Luv_Potraits
+  enabled: true
+- directory: dev_console
+  enabled: true
+- directory: 08th_MS_Livery
+  enabled: true
+- directory: Active Mechs
+  enabled: true
+- directory: BetterNaming
+  enabled: true
+- directory: Contest_Settings
+  enabled: true
+- directory: CrashedUnitPilotView
+  enabled: false
+- directory: Difficulty_Edits
+  enabled: true
+- directory: Evangelion_Livery_Pack
+  enabled: true
+- directory: Expanded Melee Blueprints 1.1
+  enabled: false
+- directory: Expanded_Livery_Pack
+  enabled: true
+- directory: Hardcore mod
+  enabled: true
+- directory: More_Pilots
+  enabled: true
+- directory: Overworld_Patrols
+  enabled: true
+- directory: Volung_Livery_Pack_1
+  enabled: true
+- directory: Volung_Livery_Pack_2
+  enabled: true

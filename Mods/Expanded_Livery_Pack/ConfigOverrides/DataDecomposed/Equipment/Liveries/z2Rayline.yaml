@@ -1,0 +1,39 @@
+textName: Rayline
+source: Hamooster
+rating: 3
+pattern: 
+colorPrimary:
+  r: 0.332
+  g: 0.332
+  b: 0.527
+  a: 0
+colorSecondary:
+  r: 0.391
+  g: 0.391
+  b: 0.625
+  a: 0
+colorTertiary:
+  r: 0.586
+  g: 0.195
+  b: 0.195
+  a: 0
+materialPrimary:
+  x: 0
+  y: 0.5
+  z: 0.5
+  w: 0
+materialSecondary:
+  x: 0
+  y: 0.5
+  z: 0.5
+  w: 0
+materialTertiary:
+  x: 1
+  y: 1
+  z: 1
+  w: 0
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

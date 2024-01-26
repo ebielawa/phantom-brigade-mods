@@ -1,0 +1,39 @@
+textName: Matoi Ryūko
+source: Kill la Kill
+rating: 3
+pattern: 
+colorPrimary:
+  r: 0.14510
+  g: 0.16863
+  b: 0.25490
+  a: 0
+colorSecondary:
+  r: 0.87451
+  g: 0.20392
+  b: 0.03529
+  a: 0
+colorTertiary:
+  r: 0.88235
+  g: 0.88235
+  b: 0.97647
+  a: 0
+materialPrimary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0
+materialSecondary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0
+materialTertiary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

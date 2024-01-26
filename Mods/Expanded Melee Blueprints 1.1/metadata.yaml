@@ -1,0 +1,12 @@
+id: Expanded Melee Blueprints
+ver: 1.0
+includesConfigOverrides: true
+includesConfigEdits: false
+includesLibraries: false
+includesTextures: false
+includesLocalizationEdits: true
+includesLocalizations: false
+gameVersionMin: 1.0.2
+gameVersionMax: 
+name: 'Expanded Melee Blueprints'
+desc: Created by Coheed                                                                                                           Fix to create all melee BP vaiants for all Axe, Blade and Saber weapons at all rarities.

@@ -1,0 +1,39 @@
+textName: Edelgard von Hresvelg
+source: Fire Emblem Three Houses
+rating: 3
+pattern: 
+colorPrimary:
+  r: 0.19216
+  g: 0.19216
+  b: 0.19216
+  a: 0
+colorSecondary:
+  r: 0.87843
+  g: 0.21961
+  b: 0.28235
+  a: 0
+colorTertiary:
+  r: 0.95118
+  g: 0.95118
+  b: 0.95118
+  a: 0
+materialPrimary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.3
+materialSecondary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.3
+materialTertiary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.3
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

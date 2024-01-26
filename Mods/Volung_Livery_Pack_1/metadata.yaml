@@ -1,0 +1,11 @@
+id: Volung_Livery_Pack_1
+ver: 1.0
+includesConfigOverrides: true
+includesConfigEdits: false
+includesLibraries: false
+includesTextures: false
+includesLocalizations: false
+gameVersionMin: 1.0
+gameVersionMax: 
+name: Vulong's Livery Pack 1
+desc: A set of custom liveries from the Front Mission series, Evangelion, Darling in the FranXX, Kill la Kill and Metal Gear Rising.

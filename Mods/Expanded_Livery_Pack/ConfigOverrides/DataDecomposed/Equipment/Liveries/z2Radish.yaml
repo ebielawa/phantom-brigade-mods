@@ -1,0 +1,39 @@
+textName: Radish
+source: Hamooster
+rating: 3
+pattern: 
+colorPrimary:
+  r: 0.781
+  g: 0.508
+  b: 0.645
+  a: 0
+colorSecondary:
+  r: 0.449
+  g: 0.703
+  b: 0.645
+  a: 0
+colorTertiary:
+  r: 0.527
+  g: 0.703
+  b: 0.508
+  a: 0
+materialPrimary:
+  x: 0
+  y: 0.2
+  z: 0
+  w: 0
+materialSecondary:
+  x: 0
+  y: 0.2
+  z: 0
+  w: 0
+materialTertiary:
+  x: 0
+  y: 0.2
+  z: 0
+  w: 0
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

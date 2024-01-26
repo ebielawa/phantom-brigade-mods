@@ -1,0 +1,35 @@
+hidden: false
+textSourceName:
+textSourceSubtitle:
+  source: Group
+  key: part_wpn_melee_axe
+textSourceDesc:
+icon: s_icon_l32_part_arch_melee_axe
+tags:
+- group_item
+duration:
+  f: 1
+basePartRequirements: 
+baseStatRequirements: 
+inputCharges: 
+inputResources:
+- key: supplies
+  amount: 1
+- key: components_r2
+  amount: 1
+- key: components_r3
+  amount: 1
+outputParts:
+- count: 1
+  key: 
+  tags: 
+    part_axe: true
+    part_melee: true
+    weight_heavy: true
+outputSubsystems: 
+outputUnits: 
+outputResources: 
+variantLinkPrimary: 
+  key: prt_item_melee_types
+variantLinkSecondary:
+  key: prt_item_ratings_01

@@ -1,0 +1,12 @@
+id: BetterNaming
+ver: 1.0
+includesConfigOverrides: false
+includesConfigEdits: false
+includesLibraries: false
+includesTextures: false
+includesLocalizationEdits: true
+includesLocalizations: false
+gameVersionMin:
+gameVersionMax:
+name: BetterNaming
+desc: This mod removes the Weapontype from the Weapon Name.

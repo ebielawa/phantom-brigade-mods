@@ -1,0 +1,45 @@
+escalationRate: 1.3
+deescalationRate: 1
+playerWarScoreRecoveryRate: 1.5
+playerMaxWarScore: 50
+enemyMaxWarScore: 150
+enemyWarScoreDamageFromObjectives: 3.5
+enemyWarScoreDamageFromOthers: 2.5
+minHope: -99
+maxHope: 99
+hopeWarScoreScale: 0.15
+threatIncreasePerLevel: 150
+threatIncreasePerReputationWithHomeGuard: 50
+maxReputationWithHomeGuard: 99
+escalationThresholds:
+- 10
+- 50
+- 100
+warThreshold: 1
+battleSiteDecayMultiplier: 1
+battleSiteStartDelay: 1
+battleSiteUpdateInterval: 2.5
+battleSiteSpawnRate: 0.3
+battleSiteQuota: 1
+warObjectiveStartDelay: 0
+warObjectiveInterval: 2.5
+warObjectiveSpawnRate: 0.5
+warObjectiveQuota: 3
+warObjectiveTagsWeighted:
+  structure: 0.7
+  squad: 0.1
+  convoy: 0.2
+warBaseSpawnInterval: 10
+warBaseSitesMin: 2
+warBaseObjectivesForced: false
+recaptureInterval: 10
+recaptureRate: 0.3
+recaptureDuration: 15
+unitGroupLimitsActive: false
+embeddedUnitGroupLimitTotal: 8
+embeddedUnitGroupLimitAdded: 4
+reinforcementUnitGroupLimitTotal: 8
+reinforcementUnitGroupLimitAdded: 4
+friendlyUnitGroupLimitTotal: 4
+friendlyUnitGroupLimitAdded: 2
+allowContestProvince: true

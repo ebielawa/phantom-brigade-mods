@@ -1,0 +1,69 @@
+hidden: true
+parents: []
+tags:
+- squad
+textName: 
+textDesc: {}
+textIdentifierGroup: ''
+image: ''
+icon: s_icon_overlay_type_squad2
+core:
+  inventory: true
+  selectable: true
+  capturable: false
+  recapturable: true
+  interactable: true
+  interactionRange: 2.5
+  hopeOnDefeat: false
+  destroyOnDefeat: true
+  destroyOnLoot: false
+  intelLocked: false
+  detectable: true
+  recognizable: true
+  observable: true
+  permanent: false
+  generated: true
+  refreshEventsOnExit: true
+  refreshEventsOnEntry: true
+  factionChangesWithProvince: false
+  faction: Invaders
+factionBranch: 
+visual:
+  visualFromSquad: true
+  visualPrefabs:
+  - path: Content/Overworld/Squad_Army
+movement: 
+ranges: 
+detection:
+  pingInterval: 0.35
+  detectionIncrementMin: 0.1
+  detectionIncrementMax: 0.51
+  detectionDecayTime: 6
+intel:
+  detected: false
+  recognized: false
+  inVisibleRange: false
+units: {}
+scenarios:
+  tags:
+    context_generic: true
+    entity_patrol: true
+areas:
+  tags:
+    context_wilderness: true
+    type_main: true
+production: 
+ai:
+  isAggressive: true
+  activeWhenUntracked: true
+spawning: 
+reinforcements: 
+rewards: 
+interactionEffects: 
+salvageBudget: 
+escalation:
+  escalationGain: 20
+  warScoreDealt: 20
+threatLevel:
+  baseThreatLevel: 700
+battleSite: 

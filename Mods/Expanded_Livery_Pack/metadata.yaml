@@ -1,0 +1,11 @@
+id: Expanded_Livery_Pack
+ver: 1.0
+includesConfigOverrides: true
+includesConfigEdits: false
+includesLibraries: false
+includesTextures: false
+includesLocalizations: false
+gameVersionMin: 1.0
+gameVersionMax: 
+name: Expanded Livery Pack
+desc: Assorted liveries.

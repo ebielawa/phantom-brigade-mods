@@ -1,0 +1,39 @@
+textName: Kiryuin Satsuki Uniform
+source: Kill la Kill
+rating: 3
+pattern: 
+colorPrimary:
+  r: 0.98
+  g: 0.98
+  b: 0.98
+  a: 0
+colorSecondary:
+  r: 0.31373
+  g: 0.49804
+  b: 0.71765
+  a: 0
+colorTertiary:
+  r: 0.96471    
+  g: 0.71765
+  b: 0.31373
+  a: 0
+materialPrimary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.2
+materialSecondary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.2
+materialTertiary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.2
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

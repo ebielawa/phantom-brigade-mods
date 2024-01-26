@@ -1,0 +1,39 @@
+textName: Service Blue
+source: Hamooster
+rating: 1
+pattern: 
+colorPrimary:
+  r: 0.273
+  g: 0.273
+  b: 0.313
+  a: 0
+colorSecondary:
+  r: 0.273
+  g: 0.313
+  b: 0.313
+  a: 0
+colorTertiary:
+  r: 0.195
+  g: 0.703
+  b: 0.938
+  a: 0
+materialPrimary:
+  x: 0.1
+  y: 0.1
+  z: 0.1
+  w: 0
+materialSecondary:
+  x: 0.1
+  y: 0.1
+  z: 0.1
+  w: 0
+materialTertiary:
+  x: 0.8
+  y: 0.8
+  z: 0.8
+  w: 0.8
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

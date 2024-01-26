@@ -1,0 +1,11 @@
+id: 08th_MS_Livery
+ver: 0.1
+includesConfigOverrides: true
+includesConfigEdits: false
+includesLibraries: false
+includesTextures: false
+includesLocalizations: false
+gameVersionMin: 
+gameVersionMax: 
+name: 08th MS Team Livery Pack
+desc: "This mod add liveries featuring Mobile Suit Gundam: The 08th MS Team."

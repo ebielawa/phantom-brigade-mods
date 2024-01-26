@@ -1,0 +1,81 @@
+edits:
+  wpn_beam_01__name: Sunswarm
+  wpn_beam_02__name: Glorydog
+  wpn_beam_03__name: Alpenglow
+  wpn_cannon_demolition_01__name: Impact
+  wpn_handgun_auto_01__name: Spark
+  wpn_handgun_heavy_01__name: Granite
+  wpn_handgun_heavy_02__name: Firestarter
+  wpn_handgun_semi_01__name:  Stand
+  wpn_heat_repeater_01__name: Tracer
+  wpn_heat_splitter_01__name: Dragon
+  pn_melee_primary_axe_heavy__name_r1: Blunt X
+  wpn_melee_primary_axe_heavy__name_r2: Spike X
+  wpn_melee_primary_axe_heavy__name_r3: Plasma X
+  wpn_melee_primary_axe_medium__name_r1: Blunt M
+  wpn_melee_primary_axe_medium__name_r2: Spike M
+  wpn_melee_primary_axe_medium__name_r3: Plasma M
+  wpn_melee_primary_blade_heavy__name_r1: Clipper X
+  wpn_melee_primary_blade_heavy__name_r2: Tear X
+  wpn_melee_primary_blade_heavy__name_r3: Razor X
+  wpn_melee_primary_blade_medium__name_r1: Clipper M
+  wpn_melee_primary_blade_medium__name_r2: Tear M
+  wpn_melee_primary_blade_medium__name_r3: Razor M
+  wpn_melee_primary_cutter_heavy__name: Line XL
+  wpn_melee_primary_cutter_medium__name: Base M
+  wpn_melee_primary_saber_heavy__name_r1: Antares X
+  wpn_melee_primary_saber_heavy__name_r2: Antares X
+  wpn_melee_primary_saber_heavy__name_r3: Antares X
+  wpn_melee_primary_saber_medium__name_r1: Arcturus M
+  wpn_melee_primary_saber_medium__name_r2: Arcturus M
+  wpn_melee_primary_saber_medium__name_r3: Arcturus M
+  wpn_melee_secondary_axe__name_r1: Blunt S
+  wpn_melee_secondary_axe__name_r2: Spike S
+  wpn_melee_secondary_axe__name_r3: Plasma S
+  wpn_melee_secondary_blade__name_r1: Clipper S
+  wpn_melee_secondary_blade__name_r2: Clipper S
+  wpn_melee_secondary_blade__name_r3: Clipper S
+  wpn_melee_secondary_cutter__name: Cutter S
+  wpn_melee_secondary_saber__name_r1: Alnair S 
+  wpn_melee_secondary_saber__name_r2: Alnair S 
+  wpn_melee_secondary_saber__name_r3: Alnair S 
+  wpn_mg_heavy_01__name: Hurricane
+  wpn_mg_light_01__name: Typhoon
+  wpn_mg_medium_01__name: Torrent
+  wpn_mg_sub_01__name: Tactical
+  wpn_mg_sub_02__name: Mobile
+  wpn_ml_primary_01__name: Starburst
+  wpn_ml_primary_02__name: Slug
+  wpn_ml_primary_03__name: Hornet
+  wpn_ml_primary_04__name: Snail
+  wpn_ml_sidearm_01__name: Direct
+  wpn_ml_sidearm_02__name: Oneshot
+  wpn_ml_sidearm_03__name: Cluster
+  wpn_ml_sidearm_04__name: Rapid
+  wpn_plasma_launcher_01__name: Charge
+  wpn_plasma_repeater_01__name: Pulse
+  wpn_plasma_seeker_01__name: Curve
+  wpn_railgun_repeater_01__name: Thermite
+  wpn_railgun_repeater_02__name: Lancer
+  wpn_railgun_repeater_03__name: Striker
+  wpn_railgun_smg_01__name: Barrage
+  wpn_railgun_splitter_01__name: Flux
+  wpn_rifle_assault_01__name: Astra
+  wpn_rifle_assault_02__name: Burst
+  wpn_rifle_marksman_01__name: Baseline
+  wpn_rifle_marksman_02__name: Sharp
+  wpn_rifle_sniper_01__name: Midway
+  wpn_rifle_sniper_02__name: Lock
+  wpn_rifle_sniper_03__name: Dice
+  wpn_shield_01__name: Svalinn
+  wpn_shield_02__name: Stance
+  wpn_shield_03__name: Ajax
+  wpn_shield_04__name: Tower
+  wpn_shield_05__name: Firewall
+  wpn_shotgun_auto_01__name: Auto
+  wpn_shotgun_heavy_01__name: Shred
+  wpn_shotgun_heavy_02__name: Heavy
+  wpn_shotgun_secondary_01__name: Blast
+  wpn_shotgun_semi_01__name: Semi
+  wpn_ultraheavy_beam_01__name: Solarburst UHB
+  wpn_ultraheavy_mg_01__name: Vulcan UHMG

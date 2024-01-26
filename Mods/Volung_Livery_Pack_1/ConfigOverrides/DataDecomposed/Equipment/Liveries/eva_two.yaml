@@ -1,0 +1,39 @@
+textName: Unit-02
+source: Evangelion
+rating: 3
+pattern: 
+colorPrimary:
+  r: 0.92549
+  g: 0.13725
+  b: 0.13725
+  a: 0
+colorSecondary:
+  r: 0.16078
+  g: 0.11373
+  b: 0.17647
+  a: 0
+colorTertiary:
+  r: 0.91765
+  g: 0.52157
+  b: 0.19608
+  a: 0
+materialPrimary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.2
+materialSecondary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.2
+materialTertiary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.2
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

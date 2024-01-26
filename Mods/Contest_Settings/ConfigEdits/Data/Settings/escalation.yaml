@@ -1,0 +1,4 @@
+removed: false
+edits:
+- 'contestWithoutEscalation: true'
+- 'contestAutomatically: false'

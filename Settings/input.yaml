@@ -1,0 +1,304 @@
+combat_action1:
+  keyboard: 28
+  mouse: -1
+  gamepad: -1
+combat_action2:
+  keyboard: 29
+  mouse: -1
+  gamepad: -1
+combat_action3:
+  keyboard: 30
+  mouse: -1
+  gamepad: -1
+combat_action4:
+  keyboard: 31
+  mouse: -1
+  gamepad: -1
+combat_action5:
+  keyboard: 32
+  mouse: -1
+  gamepad: -1
+combat_action6:
+  keyboard: 33
+  mouse: -1
+  gamepad: -1
+combat_next_unit:
+  keyboard: 56
+  mouse: -1
+  gamepad: 14
+combat_tab_unit1:
+  keyboard: 98
+  mouse: -1
+  gamepad: -1
+combat_tab_unit2:
+  keyboard: 99
+  mouse: -1
+  gamepad: -1
+combat_tab_unit3:
+  keyboard: 100
+  mouse: -1
+  gamepad: -1
+combat_tab_unit4:
+  keyboard: 101
+  mouse: -1
+  gamepad: -1
+combat_tab_unit5:
+  keyboard: 102
+  mouse: -1
+  gamepad: -1
+combat_tab_unit6:
+  keyboard: 103
+  mouse: -1
+  gamepad: -1
+combat_time_full:
+  keyboard: 31
+  mouse: -1
+  gamepad: -1
+combat_time_half:
+  keyboard: 30
+  mouse: -1
+  gamepad: -1
+combat_time_pause:
+  keyboard: 28
+  mouse: -1
+  gamepad: -1
+combat_time_slow:
+  keyboard: 29
+  mouse: -1
+  gamepad: -1
+combat_time_toggle:
+  keyboard: 54
+  mouse: -1
+  gamepad: -1
+combat_toggle_overlay:
+  keyboard: 119
+  mouse: -1
+  gamepad: -1
+combat_toggle_replay:
+  keyboard: -1
+  mouse: -1
+  gamepad: -1
+combat_toggle_targeting:
+  keyboard: 119
+  mouse: -1
+  gamepad: -1
+global_camera_horizontal:
+  keyboard: -1
+  mouse: -1
+  gamepad: 2
+global_camera_horizontal_neg:
+  keyboard: 5
+  mouse: -1
+  gamepad: -1
+global_camera_horizontal_pos:
+  keyboard: 17
+  mouse: -1
+  gamepad: -1
+global_camera_vertical:
+  keyboard: -1
+  mouse: -1
+  gamepad: 3
+global_camera_vertical_neg:
+  keyboard: 6
+  mouse: -1
+  gamepad: -1
+global_camera_vertical_pos:
+  keyboard: 18
+  mouse: -1
+  gamepad: -1
+global_camera_zoom:
+  keyboard: -1
+  mouse: 2
+  gamepad: -1
+global_camera_zoom_neg:
+  keyboard: 72
+  mouse: -1
+  gamepad: 4
+global_camera_zoom_pos:
+  keyboard: 78
+  mouse: -1
+  gamepad: 5
+global_cancel:
+  keyboard: 60
+  mouse: -1
+  gamepad: 7
+global_confirm:
+  keyboard: 58
+  mouse: -1
+  gamepad: 6
+global_direction_down:
+  keyboard: 90
+  mouse: -1
+  gamepad: 18
+global_direction_left:
+  keyboard: 92
+  mouse: -1
+  gamepad: 19
+global_direction_right:
+  keyboard: 91
+  mouse: -1
+  gamepad: 17
+global_direction_up:
+  keyboard: 89
+  mouse: -1
+  gamepad: 16
+global_gamepad_left_stick:
+  keyboard: -1
+  mouse: -1
+  gamepad: -1
+global_gamepad_right_stick:
+  keyboard: -1
+  mouse: -1
+  gamepad: 15
+global_gamepad_x:
+  keyboard: -1
+  mouse: -1
+  gamepad: 8
+global_gamepad_y:
+  keyboard: -1
+  mouse: -1
+  gamepad: 9
+global_mouse_horizontal:
+  keyboard: -1
+  mouse: 0
+  gamepad: -1
+global_mouse_middle:
+  keyboard: -1
+  mouse: 5
+  gamepad: -1
+global_mouse_primary:
+  keyboard: -1
+  mouse: 3
+  gamepad: -1
+global_mouse_secondary:
+  keyboard: -1
+  mouse: 4
+  gamepad: -1
+global_mouse_vertical:
+  keyboard: -1
+  mouse: 1
+  gamepad: -1
+global_move_horizontal:
+  keyboard: -1
+  mouse: -1
+  gamepad: 0
+global_move_horizontal_neg:
+  keyboard: 1
+  mouse: -1
+  gamepad: -1
+global_move_horizontal_pos:
+  keyboard: 4
+  mouse: -1
+  gamepad: -1
+global_move_vertical:
+  keyboard: -1
+  mouse: -1
+  gamepad: 1
+global_move_vertical_neg:
+  keyboard: 19
+  mouse: -1
+  gamepad: -1
+global_move_vertical_pos:
+  keyboard: 23
+  mouse: -1
+  gamepad: -1
+global_ui_toggle:
+  keyboard: 51
+  mouse: -1
+  gamepad: -1
+overworld_action1_stop:
+  keyboard: -1
+  mouse: -1
+  gamepad: -1
+overworld_action2_stealth:
+  keyboard: 31
+  mouse: -1
+  gamepad: -1
+overworld_action3_normal:
+  keyboard: 32
+  mouse: -1
+  gamepad: -1
+overworld_action4_overdrive:
+  keyboard: 33
+  mouse: -1
+  gamepad: -1
+overworld_event_option1:
+  keyboard: 28
+  mouse: -1
+  gamepad: -1
+overworld_event_option2:
+  keyboard: 29
+  mouse: -1
+  gamepad: -1
+overworld_event_option3:
+  keyboard: 30
+  mouse: -1
+  gamepad: -1
+overworld_event_option4:
+  keyboard: 31
+  mouse: -1
+  gamepad: -1
+overworld_inventory_multiselect:
+  keyboard: 119
+  mouse: -1
+  gamepad: -1
+overworld_selection_reset:
+  keyboard: 56
+  mouse: -1
+  gamepad: -1
+overworld_tab_move_next:
+  keyboard: 96
+  mouse: -1
+  gamepad: 11
+overworld_tab_move_prev:
+  keyboard: 97
+  mouse: -1
+  gamepad: 10
+overworld_tab_nav1_overworld:
+  keyboard: 98
+  mouse: -1
+  gamepad: -1
+overworld_tab_nav2_pilots:
+  keyboard: 99
+  mouse: -1
+  gamepad: -1
+overworld_tab_nav3_units:
+  keyboard: 100
+  mouse: -1
+  gamepad: -1
+overworld_tab_nav4_inventory:
+  keyboard: 101
+  mouse: -1
+  gamepad: -1
+overworld_tab_nav5_workshop:
+  keyboard: 102
+  mouse: -1
+  gamepad: -1
+overworld_tab_nav6_upgrades:
+  keyboard: 103
+  mouse: -1
+  gamepad: -1
+overworld_tab_nav7_briefing:
+  keyboard: 104
+  mouse: -1
+  gamepad: -1
+overworld_time_1x:
+  keyboard: 28
+  mouse: -1
+  gamepad: -1
+overworld_time_2x:
+  keyboard: 29
+  mouse: -1
+  gamepad: -1
+overworld_time_3x:
+  keyboard: 30
+  mouse: -1
+  gamepad: -1
+overworld_time_pause:
+  keyboard: -1
+  mouse: -1
+  gamepad: -1
+overworld_time_toggle:
+  keyboard: 54
+  mouse: -1
+  gamepad: -1

@@ -1,0 +1,39 @@
+textName: Vapour
+source: Hamooster
+rating: 3
+pattern: 
+colorPrimary:
+  r: 0.469
+  g: 0.469
+  b: 0.879
+  a: 0
+colorSecondary:
+  r: 0.156
+  g: 0.859
+  b: 0.703
+  a: 0
+colorTertiary:
+  r: 0.918
+  g: 0.332
+  b: 0.195
+  a: 0
+materialPrimary:
+  x: 0
+  y: 0.3
+  z: 0.5
+  w: 0
+materialSecondary:
+  x: 0
+  y: 0.3
+  z: 0.5
+  w: 0
+materialTertiary:
+  x: 0
+  y: 0.3
+  z: 0.5
+  w: 0
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

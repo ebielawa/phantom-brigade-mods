@@ -1,0 +1,12 @@
+id: Difficulty_Edits
+ver: 1.0
+includesConfigOverrides: false
+includesConfigEdits: true
+includesLibraries: false
+includesTextures: false
+includesLocalizationEdits: false
+includesLocalizations: false
+gameVersionMin: 1.1.0
+gameVersionMax:
+name: 'Difficulty Edits'
+desc: Adds more difficulty levels during campaign selection.

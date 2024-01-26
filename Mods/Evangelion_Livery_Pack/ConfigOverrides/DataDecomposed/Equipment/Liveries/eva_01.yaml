@@ -1,0 +1,31 @@
+textName: EVA-01
+source: Evangelion
+rating: 1
+pattern: 
+colorPrimary:
+  r: 0.3568627
+  g: 0.2862745
+  b: 0.4235294
+  a: 0
+colorSecondary:
+  r: 0.3058824
+  g: 0.5960784
+  b: 0.3647059
+  a: 0
+colorTertiary:
+  r: 1
+  g: 0.5843137
+  b: 0
+  a: 0
+materialPrimary: &o0
+  x: 0
+  y: 0.2
+  z: 0.5
+  w: 0
+materialSecondary: *o0
+materialTertiary: *o0
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

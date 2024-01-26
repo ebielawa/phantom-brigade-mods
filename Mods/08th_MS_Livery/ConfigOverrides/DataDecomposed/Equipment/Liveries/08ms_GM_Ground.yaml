@@ -1,0 +1,31 @@
+textName: RGM-79[G] GM Ground Type
+source: 08th MS Team
+rating: 1
+pattern: 
+colorPrimary:
+  r: 0.929
+  g: 0.886
+  b: 0.820
+  a: 0
+colorSecondary:
+  r: 0.937
+  g: 0.624
+  b: 0.392
+  a: 0
+colorTertiary:
+  r: 0.929
+  g: 0.886
+  b: 0.820
+  a: 0
+materialPrimary: &o0
+  x: 0
+  y: 0.2
+  z: 0.5
+  w: 0
+materialSecondary: *o0
+materialTertiary: *o0
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

@@ -1,0 +1,39 @@
+textName: Thermal
+source: Hamooster
+rating: 3
+pattern: 
+colorPrimary:
+  r: 0.195
+  g: 0.195
+  b: 0.195
+  a: 0
+colorSecondary:
+  r: 0.156
+  g: 0.156
+  b: 0.156
+  a: 0
+colorTertiary:
+  r: 0.117
+  g: 0.117
+  b: 0.117
+  a: 0
+materialPrimary:
+  x: 0
+  y: 0
+  z: 0
+  w: 0
+materialSecondary:
+  x: 0
+  y: 0
+  z: 0
+  w: 0
+materialTertiary:
+  x: 0
+  y: 0
+  z: 0
+  w: 0
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

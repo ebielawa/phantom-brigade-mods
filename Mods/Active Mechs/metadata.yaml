@@ -1,0 +1,12 @@
+id: Active Mechs
+ver: 1.0
+includesConfigOverrides: false
+includesConfigEdits: true
+includesLibraries: false
+includesTextures: false
+includesLocalizationEdits: false
+includesLocalizations: false
+gameVersionMin: 1.0
+gameVersionMax: 
+name: Increased Squad Size
+desc: Created by Astral                                                              Allows you to take more mechs into combat. Please be aware that not all maps have spawn points for increased mechs, so spawn issues may occure. If this happens, load the before combat save and adjust your mech count.

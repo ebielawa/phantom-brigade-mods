@@ -1,0 +1,39 @@
+textName: Primary
+source: Hamooster
+rating: 3
+pattern: 
+colorPrimary:
+  r: 1.000
+  g: 0.781
+  b: 0.156
+  a: 0
+colorSecondary:
+  r: 0.000
+  g: 0.293
+  b: 0.469
+  a: 0
+colorTertiary:
+  r: 0.664
+  g: 0.176
+  b: 0.176
+  a: 0
+materialPrimary:
+  x: 0
+  y: 0.2
+  z: 0.6
+  w: 0
+materialSecondary:
+  x: 0
+  y: 0.2
+  z: 0.6
+  w: 0
+materialTertiary:
+  x: 0
+  y: 0.2
+  z: 0.6
+  w: 0
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

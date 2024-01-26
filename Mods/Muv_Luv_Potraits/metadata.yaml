@@ -1,0 +1,12 @@
+id: Muv_Luv_Potraits
+ver: 1.0
+includesConfigOverrides: false
+includesConfigEdits: false
+includesLibraries: false
+includesTextures: true
+includesLocalizationEdits: false
+includesLocalizations: false
+gameVersionMin: 1.1.0
+gameVersionMax:
+name: 'Muv-Luv Potrait Mod'
+desc: Mod adding collection of 2D potraits from Muv-Luv Alternative

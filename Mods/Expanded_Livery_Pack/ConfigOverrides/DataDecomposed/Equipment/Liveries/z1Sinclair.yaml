@@ -1,0 +1,39 @@
+textName: Sinclair
+source: Hamooster
+rating: 2
+pattern: 
+colorPrimary:
+  r: 0.625
+  g: 0.586
+  b: 0.547
+  a: 0
+colorSecondary:
+  r: 0.703
+  g: 0.664
+  b: 0.625
+  a: 0
+colorTertiary:
+  r: 0.469
+  g: 0.430
+  b: 0.391
+  a: 0
+materialPrimary:
+  x: 0
+  y: 0.2
+  z: 0.2
+  w: 0
+materialSecondary:
+  x: 0
+  y: 0.2
+  z: 0.2
+  w: 0
+materialTertiary:
+  x: 0
+  y: 0.2
+  z: 0.2
+  w: 0
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

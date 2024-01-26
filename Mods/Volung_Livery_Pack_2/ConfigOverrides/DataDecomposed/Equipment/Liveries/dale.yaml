@@ -1,0 +1,39 @@
+textName: The Intimidator
+source: Racing
+rating: 3
+pattern: 
+colorPrimary:
+  r: 0.19216
+  g: 0.19216
+  b: 0.19216
+  a: 0
+colorSecondary:
+  r: 0.57255
+  g: 0.59608
+  b: 0.60000
+  a: 0
+colorTertiary:
+  r: 0.99608
+  g: 0.18431
+  b: 0.01176
+  a: 0
+materialPrimary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.5
+materialSecondary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.5
+materialTertiary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.3
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

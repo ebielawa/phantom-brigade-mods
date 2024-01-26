@@ -1,0 +1,13 @@
+id: Hardcoremod
+ver: 0.2
+includesConfigOverrides: false
+includesConfigEdits: true
+includesLibraries: false
+includesTextures: false
+includesLocalizationEdits: false
+includesLocalizations: false
+gameVersionMin: 1.0.4
+gameVersionMax: 
+name: Hardcore mod
+desc: This mod causes escalation growth and base threat to be multiplied in the war against the invaders.
+

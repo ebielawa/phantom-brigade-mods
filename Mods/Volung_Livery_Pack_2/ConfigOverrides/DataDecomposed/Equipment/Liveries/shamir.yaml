@@ -1,0 +1,39 @@
+textName: Shamir Nevrand
+source: Fire Emblem Three Houses
+rating: 3
+pattern: 
+colorPrimary:
+  r: 0.20392
+  g: 0.38039
+  b: 0.41569
+  a: 0
+colorSecondary:
+  r: 0.27059
+  g: 0.23529
+  b: 0.28235
+  a: 0
+colorTertiary:
+  r: 0.33725
+  g: 0.34118
+  b: 0.49020
+  a: 0
+materialPrimary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.3
+materialSecondary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.4
+materialTertiary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.5
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

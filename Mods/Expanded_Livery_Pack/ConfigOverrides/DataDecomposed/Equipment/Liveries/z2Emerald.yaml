@@ -1,0 +1,39 @@
+textName: Emerald
+source: Hamooster
+rating: 3
+pattern: 
+colorPrimary:
+  r: 0.020
+  g: 0.313
+  b: 0.137
+  a: 0
+colorSecondary:
+  r: 0.059
+  g: 0.469
+  b: 0.234
+  a: 0
+colorTertiary:
+  r: 0.254
+  g: 0.781
+  b: 0.449
+  a: 0
+materialPrimary:
+  x: 0.6
+  y: 0.7
+  z: 0.8
+  w: 0
+materialSecondary:
+  x: 0.6
+  y: 0.7
+  z: 0.8
+  w: 0
+materialTertiary:
+  x: 0.6
+  y: 0.7
+  z: 0.8
+  w: 0
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

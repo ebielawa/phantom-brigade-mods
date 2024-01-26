@@ -1,0 +1,39 @@
+textName: Trench
+source: Hamooster
+rating: 2
+pattern: 
+colorPrimary:
+  r: 0.293
+  g: 0.371
+  b: 0.332
+  a: 0
+colorSecondary:
+  r: 0.293
+  g: 0.371
+  b: 0.371
+  a: 0
+colorTertiary:
+  r: 0.371
+  g: 0.371
+  b: 0.371
+  a: 0
+materialPrimary:
+  x: 0.2
+  y: 0.5
+  z: 0.4
+  w: 0
+materialSecondary:
+  x: 0.2
+  y: 0.5
+  z: 0.4
+  w: 0
+materialTertiary:
+  x: 0.2
+  y: 0.5
+  z: 0.4
+  w: 0
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

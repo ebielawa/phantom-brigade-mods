@@ -1,0 +1,39 @@
+textName: Strelizia
+source: Darling in the FranXX
+rating: 3
+pattern: 
+colorPrimary:
+  r: 0.97
+  g: 0.97
+  b: 0.97
+  a: 0
+colorSecondary:
+  r: 0.99216
+  g: 0.27059
+  b: 0.26275
+  a: 0
+colorTertiary:
+  r: 0.98824
+  g: 0.67059
+  b: 0.31373
+  a: 0
+materialPrimary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.2
+materialSecondary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.5
+materialTertiary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

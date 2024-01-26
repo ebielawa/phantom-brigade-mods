@@ -1,0 +1,39 @@
+textName: Falken Motorsports
+source: Racing
+rating: 3
+pattern: 
+colorPrimary:
+  r: 0.13
+  g: 0.84314
+  b: 0.74510
+  a: 0
+colorSecondary:
+  r: 0.13
+  g: 0.41961
+  b: 0.76863
+  a: 0
+colorTertiary:
+  r: 0.94118
+  g: 0.94118
+  b: 0.94118
+  a: 0
+materialPrimary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.3
+materialSecondary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.3
+materialTertiary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.3
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

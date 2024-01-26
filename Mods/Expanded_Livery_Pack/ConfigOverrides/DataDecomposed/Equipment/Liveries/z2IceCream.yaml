@@ -1,0 +1,39 @@
+textName: Ice Cream
+source: Hamooster
+rating: 3
+pattern: 
+colorPrimary:
+  r: 0.430
+  g: 0.352
+  b: 0.273
+  a: 0
+colorSecondary:
+  r: 0.742
+  g: 0.684
+  b: 0.742
+  a: 0
+colorTertiary:
+  r: 0.859
+  g: 0.840
+  b: 0.762
+  a: 0
+materialPrimary:
+  x: 0
+  y: 0.3
+  z: 0.3
+  w: 0
+materialSecondary:
+  x: 0
+  y: 0.3
+  z: 0.3
+  w: 0
+materialTertiary:
+  x: 0
+  y: 0.3
+  z: 0.3
+  w: 0
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

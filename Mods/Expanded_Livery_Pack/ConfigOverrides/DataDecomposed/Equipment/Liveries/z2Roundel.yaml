@@ -1,0 +1,39 @@
+textName: Roundel
+source: Hamooster
+rating: 3
+pattern: 
+colorPrimary:
+  r: 0.234
+  g: 0.430
+  b: 0.391
+  a: 0
+colorSecondary:
+  r: 0.723
+  g: 0.684
+  b: 0.684
+  a: 0
+colorTertiary:
+  r: 0.586
+  g: 0.273
+  b: 0.273
+  a: 0
+materialPrimary:
+  x: 0.1
+  y: 0.2
+  z: 0.3
+  w: 0
+materialSecondary:
+  x: 0.1
+  y: 0.2
+  z: 0.3
+  w: 0
+materialTertiary:
+  x: 0.1
+  y: 0.2
+  z: 0.3
+  w: 0
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

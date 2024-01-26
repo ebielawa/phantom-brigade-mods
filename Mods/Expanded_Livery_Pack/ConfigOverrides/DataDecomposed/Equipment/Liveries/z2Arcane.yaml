@@ -1,0 +1,39 @@
+textName: Arcane
+source: Hamooster
+rating: 3
+pattern: 
+colorPrimary:
+  r: 0.664
+  g: 0.176
+  b: 0.176
+  a: 0
+colorSecondary:
+  r: 0.000
+  g: 0.313
+  b: 0.391
+  a: 0
+colorTertiary:
+  r: 0.781
+  g: 0.234
+  b: 0.391
+  a: 0
+materialPrimary:
+  x: 0.1
+  y: 0.2
+  z: 0.4
+  w: 0
+materialSecondary:
+  x: 0.1
+  y: 0.2
+  z: 0.4
+  w: 0
+materialTertiary:
+  x: 0.1
+  y: 0.2
+  z: 0.4
+  w: 0
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

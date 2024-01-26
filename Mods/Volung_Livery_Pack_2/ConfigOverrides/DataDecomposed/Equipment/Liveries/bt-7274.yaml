@@ -1,0 +1,39 @@
+textName: BT-7274
+source: Titanfall 2
+rating: 3
+pattern: 
+colorPrimary:
+  r: 0.64706
+  g: 0.68235
+  b: 0.48235
+  a: 0
+colorSecondary:
+  r: 0.98039
+  g: 0.98431
+  b: 0.90196
+  a: 0
+colorTertiary:
+  r: 0.99216
+  g: 0.67059
+  b: 0.22745
+  a: 0
+materialPrimary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.6
+materialSecondary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.6
+materialTertiary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.4
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

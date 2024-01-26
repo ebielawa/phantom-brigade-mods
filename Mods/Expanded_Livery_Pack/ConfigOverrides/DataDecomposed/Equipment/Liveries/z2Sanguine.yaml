@@ -1,0 +1,39 @@
+textName: Sanguine
+source: Hamooster
+rating: 3
+pattern: 
+colorPrimary:
+  r: 0.703
+  g: 0.176
+  b: 0.137
+  a: 0
+colorSecondary:
+  r: 0.586
+  g: 0.137
+  b: 0.098
+  a: 0
+colorTertiary:
+  r: 0.313
+  g: 0.000
+  b: 0.000
+  a: 0
+materialPrimary:
+  x: 0
+  y: 0.8
+  z: 0.8
+  w: 0
+materialSecondary:
+  x: 0
+  y: 0.5
+  z: 0.5
+  w: 0
+materialTertiary:
+  x: 0
+  y: 0
+  z: 0
+  w: 0
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

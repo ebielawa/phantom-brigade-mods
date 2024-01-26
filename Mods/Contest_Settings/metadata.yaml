@@ -1,0 +1,12 @@
+id: Contest_Settings
+ver: 1.0
+includesConfigOverrides: false
+includesConfigEdits: true
+includesLibraries: false
+includesTextures: false
+includesLocalizationEdits: false
+includesLocalizations: false
+gameVersionMin: 1.1.0
+gameVersionMax:
+name: 'Province Contestment Modification'
+desc: Changes Province Contesting to not occur automatically and be initiated at any escalation level.

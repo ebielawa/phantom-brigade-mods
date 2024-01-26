@@ -1,0 +1,12 @@
+id: Legacy_Potraits
+ver: 1.0
+includesConfigOverrides: false
+includesConfigEdits: false
+includesLibraries: false
+includesTextures: true
+includesLocalizationEdits: false
+includesLocalizations: false
+gameVersionMin: 1.1.0
+gameVersionMax:
+name: 'Legacy Potrait Mod'
+desc: Mod adding collection of 2D potraits from the early access build of the game

@@ -1,0 +1,39 @@
+textName: Purple Haze
+source: Front Mission 3
+rating: 3
+pattern: 
+colorPrimary:
+  r: 0.5215686
+  g: 0.4784313
+  b: 0.5882351
+  a: 0
+colorSecondary:
+  r: 0.5215686
+  g: 0.4784313
+  b: 0.5882351
+  a: 0
+colorTertiary:
+  r: 0.8745098
+  g: 0.5254901
+  b: 0.3019607
+  a: 0
+materialPrimary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.1
+materialSecondary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.1
+materialTertiary:
+  x: 0
+  y: 0.5
+  z: 0.8
+  w: 0.1
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

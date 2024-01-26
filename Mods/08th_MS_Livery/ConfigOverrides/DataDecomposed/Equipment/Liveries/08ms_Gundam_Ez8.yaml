@@ -1,0 +1,31 @@
+textName: RX-79[G] Gundam Ez8
+source: 08th MS Team
+rating: 1
+pattern: 
+colorPrimary:
+  r: 0.925
+  g: 0.894
+  b: 0.824
+  a: 0
+colorSecondary:
+  r: 0.925
+  g: 0.894
+  b: 0.824
+  a: 0
+colorTertiary:
+  r: 0.275
+  g: 0.486
+  b: 0.569
+  a: 0
+materialPrimary: &o0
+  x: 0
+  y: 0.2
+  z: 0.5
+  w: 0
+materialSecondary: *o0
+materialTertiary: *o0
+effect:
+  x: 0
+  y: 0
+  z: 0
+  w: 0

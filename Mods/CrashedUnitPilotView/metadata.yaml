@@ -1,0 +1,12 @@
+id: com.echkode.pbmods.crashedunitpilotview
+ver: 1
+includesConfigOverrides: false
+includesConfigEdits: false
+includesLibraries: true
+includesTextures: false
+includesLocalizationEdits: false
+includesLocalizations: false
+gameVersionMin: 1.1.3
+gameVersionMax: 1.1.3
+name: CrashedUnitPilotView
+desc: Shows the pilot view of a crashed unit when holding down left Control key.

@@ -1,0 +1,11 @@
+removed: false
+edits:
+  - 'levels.200: !+'
+  - 'levels.200.textCustom: 200%'
+  - 'levels.200.valueRaw: 2.00'
+  - 'levels.300: !+'
+  - 'levels.300.textCustom: 300%'
+  - 'levels.300.valueRaw: 3.00'
+  - 'levels.400: !+'
+  - 'levels.400.textCustom: 400%'
+  - 'levels.400.valueRaw: 4.00'
